@@ -2,8 +2,7 @@
   "name": "GroceriesApi",
   "version": "1.0.0",
   "description": "sample Grocery web services app",
-  "main": "app.js",
-  "scripts": {
+  "main": "app.js","scripts": {
     "start": "node app.js"
   },
   "author": "",

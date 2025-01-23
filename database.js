@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
 const flatted = require("flatted");
 
-// MongoDB URI (MongoDB Atlas or local)
+// MongoDB URI
 const uri = "mongodb+srv://srinup454:srinup454@cluster0.jmree.mongodb.net/Shop";
 
 // Connect to MongoDB
